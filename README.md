@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a simple python program using spider to get text from a website to get some infomation about the poet and build a text list of Chinese Poems of Tang Dynasty. Then uses wordcloud and jieba to draw a picture of the frequencies of words appeared in the poems.
+This is a simple python program using spider to get text from a website and get some infomation about the poet and build a text list of Chinese Poems of Tang Dynasty. Then uses wordcloud and jieba to draw a picture of the frequencies of words appeared in the poems.
 
 I have already offered a `.ipynb` version and `.py` version with detailed annotations of this simple program.
 
